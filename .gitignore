@@ -1,2 +1,3 @@
 build/
 includes/database.php
+node_modules
